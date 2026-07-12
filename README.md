@@ -89,7 +89,7 @@ AI-Email-Spam-Classifier/
 ### 1️ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Email-Spam-Classifier.git
+git clone https://github.com/haniaeman2026-pixel/AI-Email-Spam-Classifier.git
 ```
 
 ### 2️ Open Project
